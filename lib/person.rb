@@ -79,7 +79,7 @@ class Person
       friend.happiness += 1
       "blah blah sun blah rain"
     else
-      "blah blah blah blah bla"
+      "blah blah blah blah blah"
     end
   end
 end
